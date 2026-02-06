@@ -18,4 +18,4 @@
 * **Data Mining:** Промышленный парсер для E-commerce (1M+ запросов/день).
 * **AI:** Telegram-боты для автоматизации бизнеса с долгосрочной памятью.
 
-**📫 Связь:** [Telegram](https://t.me/твой_логин) | [Freelancehunt](https://freelancehunt.com/author/maloznal5)
+**📫 Связь:** [Telegram](https://t.me/mal0zna1) | [Freelancehunt](https://freelancehunt.com/author/maloznal5)
